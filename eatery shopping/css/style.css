@@ -1,0 +1,55 @@
+.shivi
+{
+height:500px;
+}
+.shivi-row
+{
+height:800px;
+}
+.shivi-row1
+{
+height:200px;
+}
+.shivi-row2
+{
+height:100px;
+}
+.my-sec{
+    height: 200px;
+    background-image: url('../images/hero_2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.my-sec-inner{
+    background-color: rgba(255,0,0,0.5);
+    /*opacity: 0.5;*/
+    color: aliceblue;
+}
+.smi{
+     
+    list-style-type: none;
+}
+.smi li{
+    display: inline-block;
+    color:red;
+    background-color:white;
+    padding: 10px 15px;
+    margin-right: 10px;
+    border-radius: 40%;
+}
+.smi li a{
+    color:red;
+}
+
+
+.com_out{
+    background-color:#dccdb8;
+    height:800px;
+    width:800px;
+}
+.me_sec{
+    color:white;
+    background-color:rgb(red);
+    /*opacity:0.5;*/
+}

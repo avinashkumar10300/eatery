@@ -1,0 +1,85 @@
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.conatiner-fluid
+{
+    min-height: 800px;
+}
+#head
+{
+    height:700px;
+    background: url('IMG/banner1.jpg');
+    background-size: cover;
+}
+#menu
+{
+    height: 150px;
+    background-size: cover;
+    padding-left: 80px;
+    margin: 0px auto;
+}
+#menu ul li a
+{
+    padding-left:45px;
+    color: white;
+    font-size: 20px;
+}
+#menu ul li a:hover
+{
+    color: red;
+}
+
+button {
+    border: 1px solid white;
+    background: none;
+    color: white;
+    height: 50px;
+    width: 250px;
+}
+button:hover {
+    background:aqua;
+    border-radius: 25px;
+    transition: all ease 2s;
+}
+#about
+{
+    height:480px;
+}
+#about2
+{
+    height:420px;
+}
+#prd
+{
+    height:80px;
+}
+.b1
+{
+    height:50px;
+    width:50px;
+    border-radius:50%;
+    background-color:#ff6b4a;
+    text-align: center;
+    color:white;
+    font-size:30px;
+    margin:0px auto;
+}
+#detail
+{
+    min-height:800px;
+}
+#location
+{
+    height: 350px;
+}
+#foot
+{
+    height: 80px;
+}
+#footer
+{
+    height: 150px;
+}
